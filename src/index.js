@@ -1,5 +1,5 @@
 // index.js
-import "./styles.css"
+// import "./styles.css"
 import { greeting } from "./greeting.js";
 
 class Node {
@@ -114,5 +114,6 @@ class Node {
   list.append("dog");
   list.append("cat");
   list.append("parrot");
+  list.append("bear")
   console.log(list.toString());
   
